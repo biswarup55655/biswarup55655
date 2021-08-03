@@ -12,7 +12,7 @@
 
 - 👯 I’m looking for internships for my carrier **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/biswarup55655)**
 
 - 📫 How to reach me **roy55655@gmail.com**
 
